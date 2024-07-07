@@ -1,0 +1,2 @@
+# minchastore
+Web Toko Online
